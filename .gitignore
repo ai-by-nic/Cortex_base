@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Add specific 04_Development projects if they have their own git repos
+# Example:
+# 04_Development/my-app/
+
+# Local runbook (not part of distributed template)
+the_cortex_starter_kit_runbook.md
